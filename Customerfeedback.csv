@@ -1,0 +1,1001 @@
+feedback_id,customer_id,order_id,feedback_date,satisfaction_score,comments
+1,678,US-2023-137414,2022-10-08,1,Great product and service!
+3,603,US-2020-163419,2019-11-16,1,Great product and service!
+4,90,US-2022-166618,2021-11-20,1,Great product and service!
+5,739,US-2022-112669,2021-04-16,1,Great product and service!
+6,407,US-2023-132521,2022-09-27,1,Great product and service!
+7,132,US-2023-100636,2022-07-02,1,Great product and service!
+8,166,US-2021-129392,2020-07-10,1,Great product and service!
+9,390,US-2021-158918,2020-12-27,1,Great product and service!
+10,10,US-2023-129357,2022-05-21,1,Great product and service!
+11,184,US-2020-166744,2019-09-26,1,Great product and service!
+12,703,US-2022-127971,2021-11-29,1,Great product and service!
+14,133,US-2023-121643,2022-05-22,1,Great product and service!
+15,7,US-2023-127516,2023-01-05,1,Great product and service!
+16,326,US-2020-135608,2019-12-12,1,Great product and service!
+17,385,US-2021-148712,2020-04-25,1,Great product and service!
+18,521,US-2023-137428,2022-12-23,1,Great product and service!
+19,576,US-2022-147375,2021-06-16,1,Great product and service!
+20,735,US-2022-163328,2021-11-08,1,Great product and service!
+21,566,US-2020-112914,2019-10-02,1,Great product and service!
+22,466,US-2020-154893,2019-12-29,1,Great product and service!
+24,49,US-2022-109869,2021-05-01,1,Great product and service!
+25,688,US-2020-168494,2019-12-16,1,Great product and service!
+26,661,US-2022-162747,2021-03-27,1,Great product and service!
+27,853,US-2023-145443,2022-08-17,1,Great product and service!
+28,747,US-2021-150630,2020-09-23,1,Great product and service!
+29,683,US-2020-150574,2019-12-27,1,Great product and service!
+30,407,US-2022-128706,2021-03-04,1,Great product and service!
+31,725,US-2023-105487,2022-10-16,1,Great product and service!
+32,780,US-2022-169824,2021-12-19,1,Great product and service!
+33,261,US-2022-140501,2021-06-30,1,Great product and service!
+34,372,US-2022-137330,2021-12-15,1,Great product and service!
+35,530,US-2022-146710,2021-09-03,1,Great product and service!
+36,223,US-2023-122175,2022-05-16,1,Great product and service!
+37,145,US-2023-130953,2022-08-05,1,Great product and service!
+38,659,US-2021-108259,2020-11-17,1,Great product and service!
+39,41,US-2021-105158,2020-09-12,1,Great product and service!
+40,62,US-2023-149888,2022-11-15,1,Great product and service!
+42,14,US-2022-103674,2021-12-12,1,Great product and service!
+43,354,US-2023-137631,2022-05-04,1,Great product and service!
+44,448,US-2022-127334,2021-12-23,1,Great product and service!
+45,824,US-2021-121405,2020-04-06,1,Great product and service!
+46,515,US-2023-134306,2022-07-14,1,Great product and service!
+47,105,US-2020-148369,2019-09-29,1,Great product and service!
+48,413,US-2020-124478,2019-08-14,1,Great product and service!
+49,618,US-2022-130407,2021-09-08,1,Great product and service!
+50,783,US-2022-100461,2021-01-14,1,Great product and service!
+51,565,US-2020-118486,2019-04-10,1,Great product and service!
+52,573,US-2023-166709,2022-11-24,1,Great product and service!
+53,738,US-2022-133795,2021-12-26,1,Great product and service!
+54,615,US-2023-124779,2022-09-13,1,Great product and service!
+55,585,US-2022-119018,2021-11-10,1,Great product and service!
+56,161,US-2020-103940,2019-09-23,1,Great product and service!
+57,474,US-2023-144498,2022-05-08,1,Great product and service!
+59,548,US-2022-128706,2021-03-04,1,Great product and service!
+60,449,US-2023-105487,2022-10-16,1,Great product and service!
+61,660,US-2023-110576,2022-12-04,1,Great product and service!
+62,80,US-2023-142909,2022-12-27,1,Great product and service!
+64,836,US-2022-129714,2021-09-05,1,Great product and service!
+65,704,US-2022-117037,2021-05-22,1,Great product and service!
+66,322,US-2022-128531,2021-11-28,1,Great product and service!
+67,243,US-2022-110772,2021-11-26,1,Great product and service!
+68,798,US-2021-104941,2020-06-21,1,Great product and service!
+69,143,US-2023-127264,2022-04-07,1,Great product and service!
+70,696,US-2023-122595,2022-12-22,1,Great product and service!
+71,136,US-2023-161774,2022-05-17,1,Great product and service!
+72,594,US-2023-102337,2022-06-18,1,Great product and service!
+73,272,US-2022-158435,2021-05-20,1,Great product and service!
+74,539,US-2021-130218,2020-03-29,1,Great product and service!
+75,540,US-2022-165330,2021-12-14,1,Great product and service!
+79,822,US-2021-138674,2020-11-20,1,Great product and service!
+80,155,US-2023-104080,2022-03-18,1,Great product and service!
+81,219,US-2022-167472,2021-06-10,1,Great product and service!
+82,94,US-2023-119494,2022-11-16,1,Great product and service!
+83,53,US-2022-163538,2021-09-02,1,Great product and service!
+85,211,US-2022-137673,2021-09-13,1,Great product and service!
+86,597,US-2023-142776,2022-12-17,1,Great product and service!
+87,277,US-2020-166989,2019-11-21,1,Great product and service!
+89,156,US-2022-106306,2021-03-11,1,Great product and service!
+90,36,US-2022-101987,2021-07-03,1,Great product and service!
+91,316,US-2023-161067,2022-09-09,1,Great product and service!
+92,675,US-2022-142251,2021-11-07,1,Great product and service!
+93,178,US-2020-154158,2019-12-30,1,Great product and service!
+94,857,US-2020-120852,2019-12-28,1,Great product and service!
+95,154,US-2022-145261,2021-12-24,1,Great product and service!
+97,762,US-2023-117401,2022-05-25,1,Great product and service!
+98,17,US-2023-141614,2022-06-12,1,Great product and service!
+99,236,US-2022-168893,2021-11-11,1,Great product and service!
+100,704,US-2023-166128,2022-04-21,1,Great product and service!
+101,599,US-2023-100048,2022-05-27,1,Great product and service!
+102,551,US-2020-157546,2019-07-25,1,Great product and service!
+105,336,US-2022-149370,2021-09-22,1,Great product and service!
+106,434,US-2023-168123,2022-03-08,1,Great product and service!
+107,282,US-2023-141614,2022-06-12,1,Great product and service!
+109,607,US-2023-139353,2022-11-02,1,Great product and service!
+110,181,US-2020-142769,2019-09-16,1,Great product and service!
+111,824,US-2022-138968,2021-03-19,1,Great product and service!
+112,423,US-2021-148250,2020-12-20,1,Great product and service!
+114,854,US-2022-152415,2021-09-25,1,Great product and service!
+116,90,US-2021-115742,2020-04-25,1,Great product and service!
+119,753,US-2022-149370,2021-09-22,1,Great product and service!
+120,560,US-2022-152688,2021-10-23,1,Great product and service!
+121,407,US-2023-132521,2022-09-28,1,Great product and service!
+122,856,US-2020-102988,2019-04-12,1,Great product and service!
+123,64,US-2023-102155,2022-07-20,1,Great product and service!
+124,199,US-2022-153661,2021-02-03,1,Great product and service!
+125,163,US-2021-129392,2020-07-11,1,Great product and service!
+126,693,US-2020-102988,2019-04-12,1,Great product and service!
+127,752,US-2023-150910,2022-12-31,1,Great product and service!
+128,521,US-2020-102652,2019-04-15,1,Great product and service!
+129,494,US-2023-142867,2022-03-24,1,Great product and service!
+131,320,US-2022-124016,2021-09-29,1,Great product and service!
+132,859,US-2022-155978,2021-08-04,1,Great product and service!
+133,297,US-2020-115413,2019-09-04,1,Great product and service!
+134,590,US-2022-169887,2021-10-25,1,Great product and service!
+135,381,US-2021-130113,2021-01-03,1,Great product and service!
+136,256,US-2022-146710,2021-09-04,1,Great product and service!
+138,159,US-2022-126844,2021-10-17,1,Great product and service!
+139,504,US-2021-140557,2020-09-14,1,Great product and service!
+140,260,US-2022-130946,2021-04-15,1,Great product and service!
+142,240,US-2020-140039,2019-09-20,1,Great product and service!
+143,110,US-2021-149384,2020-07-13,1,Great product and service!
+144,649,US-2022-153661,2021-02-03,1,Great product and service!
+147,598,US-2023-119011,2022-08-28,1,Great product and service!
+148,485,US-2023-143770,2022-03-27,1,Great product and service!
+149,289,US-2020-124625,2019-11-10,1,Great product and service!
+150,175,US-2021-153717,2021-01-04,1,Great product and service!
+151,120,US-2021-132486,2020-10-30,1,Great product and service!
+152,305,US-2021-150630,2020-09-24,1,Great product and service!
+153,104,US-2020-125514,2019-09-25,1,Great product and service!
+154,647,US-2023-127306,2022-01-21,1,Great product and service!
+155,156,US-2023-123701,2022-11-30,1,Great product and service!
+156,878,US-2021-160227,2020-11-07,1,Great product and service!
+157,45,US-2020-119137,2019-07-30,1,Great product and service!
+158,86,US-2022-148901,2021-05-22,1,Great product and service!
+159,509,US-2023-149888,2022-11-16,1,Great product and service!
+160,185,US-2020-109855,2019-09-08,1,Great product and service!
+161,863,US-2023-154816,2022-11-13,1,Great product and service!
+164,217,US-2022-126158,2021-08-03,1,Great product and service!
+165,714,US-2020-140039,2019-09-20,1,Great product and service!
+167,546,US-2022-108098,2021-10-21,1,Great product and service!
+168,571,US-2023-167976,2022-11-17,1,Great product and service!
+169,681,US-2023-144848,2022-04-08,1,Great product and service!
+170,467,US-2020-134572,2019-04-25,1,Great product and service!
+171,130,US-2023-113908,2022-06-12,1,Great product and service!
+172,668,US-2023-116225,2022-11-12,1,Great product and service!
+173,692,US-2020-114188,2019-05-25,1,Great product and service!
+174,710,US-2023-127306,2022-01-21,1,Great product and service!
+175,383,US-2022-121671,2021-07-25,1,Great product and service!
+176,483,US-2023-105480,2022-12-29,1,Great product and service!
+177,724,US-2023-158512,2022-01-20,1,Great product and service!
+178,862,US-2022-163538,2021-09-02,1,Great product and service!
+179,761,US-2022-155488,2021-11-20,1,Great product and service!
+180,616,US-2022-106306,2021-03-11,1,Great product and service!
+182,262,US-2022-144015,2021-06-29,1,Great product and service!
+183,873,US-2023-158967,2022-12-15,1,Great product and service!
+184,881,US-2023-124114,2022-03-05,1,Great product and service!
+185,247,US-2023-116652,2022-09-22,1,Great product and service!
+186,295,US-2023-104318,2022-05-21,1,Great product and service!
+187,161,US-2020-103940,2019-09-24,1,Great product and service!
+188,51,US-2022-133879,2021-03-31,1,Great product and service!
+189,176,US-2023-147361,2022-09-18,1,Great product and service!
+190,252,US-2020-100363,2019-04-18,1,Great product and service!
+192,769,US-2022-109820,2021-11-25,1,Great product and service!
+193,395,US-2020-106439,2019-11-07,1,Great product and service!
+194,351,US-2023-136868,2022-10-15,1,Great product and service!
+195,221,US-2023-122798,2023-01-04,1,Great product and service!
+196,207,US-2023-158071,2022-06-18,1,Great product and service!
+197,67,US-2022-129714,2021-09-06,1,Great product and service!
+198,821,US-2020-117135,2019-06-26,1,Great product and service!
+199,506,US-2023-102288,2022-06-26,1,Great product and service!
+200,693,US-2020-102988,2019-04-12,1,Great product and service!
+201,757,US-2022-152373,2021-09-14,1,Great product and service!
+203,566,US-2020-112914,2019-10-03,1,Great product and service!
+204,28,US-2022-165673,2021-05-22,1,Great product and service!
+205,62,US-2021-163587,2020-03-21,1,Great product and service!
+206,66,US-2023-103478,2022-07-27,1,Great product and service!
+208,441,US-2023-100384,2022-07-04,1,Great product and service!
+209,174,US-2023-122595,2022-12-23,1,Great product and service!
+211,583,US-2023-108000,2022-01-19,1,Great product and service!
+212,333,US-2022-137673,2021-09-13,1,Great product and service!
+213,334,US-2023-105326,2022-08-30,1,Great product and service!
+214,562,US-2023-100384,2022-07-04,1,Great product and service!
+215,430,US-2022-137239,2021-08-31,1,Great product and service!
+216,519,US-2021-114811,2020-11-11,1,Great product and service!
+217,719,US-2022-101630,2021-02-26,1,Great product and service!
+218,270,US-2023-121412,2022-09-30,1,Great product and service!
+219,246,US-2021-130218,2020-03-29,1,Great product and service!
+220,661,US-2020-122070,2019-04-27,1,Great product and service!
+221,605,US-2023-119438,2022-03-26,1,Great product and service!
+222,225,US-2021-163587,2020-03-21,1,Great product and service!
+223,297,US-2023-117401,2022-05-25,1,Great product and service!
+224,726,US-2021-115742,2020-04-25,1,Great product and service!
+225,524,US-2023-163902,2022-03-11,1,Great product and service!
+226,647,US-2020-115812,2019-06-17,1,Great product and service!
+227,45,US-2022-158435,2021-05-21,1,Great product and service!
+228,195,US-2022-126158,2021-08-03,1,Great product and service!
+230,621,US-2023-136497,2022-04-23,1,Great product and service!
+231,108,US-2021-153038,2020-12-28,1,Great product and service!
+232,4,US-2020-166863,2019-06-28,1,Great product and service!
+233,721,US-2021-155054,2020-06-23,1,Great product and service!
+234,426,US-2023-123701,2022-12-01,1,Great product and service!
+235,160,US-2023-127264,2022-04-09,1,Great product and service!
+238,827,US-2020-121762,2019-02-22,1,Great product and service!
+240,566,US-2021-156608,2020-11-02,1,Great product and service!
+241,626,US-2020-124688,2019-09-02,1,Great product and service!
+243,886,US-2023-133200,2022-05-15,1,Great product and service!
+244,168,US-2022-154018,2021-10-23,1,Great product and service!
+245,199,US-2021-165057,2020-09-19,1,Great product and service!
+246,537,US-2023-121048,2022-07-22,1,Great product and service!
+247,453,US-2022-169369,2021-12-22,1,Great product and service!
+248,549,US-2020-158274,2019-11-28,1,Great product and service!
+250,698,US-2020-108182,2019-02-14,1,Great product and service!
+251,309,US-2023-105235,2022-12-15,1,Great product and service!
+252,292,US-2021-104129,2020-03-06,1,Great product and service!
+253,534,US-2023-123491,2022-11-09,1,Great product and service!
+254,792,US-2022-138688,2021-06-20,1,Great product and service!
+256,265,US-2023-124779,2022-09-15,1,Great product and service!
+257,865,US-2023-121888,2022-09-21,1,Great product and service!
+258,806,US-2021-109575,2020-09-27,1,Great product and service!
+259,40,US-2023-151981,2022-08-16,1,Great product and service!
+260,820,US-2020-149104,2019-04-11,1,Great product and service!
+261,550,US-2023-154760,2022-01-17,1,Great product and service!
+262,773,US-2023-124436,2022-03-26,1,Great product and service!
+263,509,US-2023-157483,2022-11-22,1,Great product and service!
+264,81,US-2023-121048,2022-07-22,1,Great product and service!
+266,250,US-2021-131338,2020-08-16,1,Great product and service!
+267,57,US-2021-143147,2020-06-01,1,Great product and service!
+268,771,US-2023-121643,2022-05-24,1,Great product and service!
+269,562,US-2023-100384,2022-07-05,1,Great product and service!
+270,645,US-2022-111682,2021-06-22,1,Great product and service!
+271,809,US-2023-108343,2022-07-29,1,Great product and service!
+272,480,US-2023-132521,2022-09-29,1,Great product and service!
+273,793,US-2020-112200,2019-12-02,1,Great product and service!
+274,495,US-2023-158967,2022-12-16,1,Great product and service!
+275,171,US-2023-166128,2022-04-22,1,Great product and service!
+276,886,US-2020-151953,2019-09-29,1,Great product and service!
+278,725,US-2020-162775,2019-01-19,1,Great product and service!
+279,808,US-2022-124254,2021-04-21,1,Great product and service!
+281,795,US-2021-123568,2020-11-18,1,Great product and service!
+282,431,US-2023-131156,2022-04-11,1,Great product and service!
+283,520,US-2020-131926,2019-06-10,1,Great product and service!
+284,121,US-2023-147032,2022-08-08,1,Great product and service!
+285,370,US-2022-155187,2021-09-30,1,Great product and service!
+286,74,US-2023-100902,2022-11-25,1,Great product and service!
+287,15,US-2020-135608,2019-12-14,1,Great product and service!
+288,584,US-2023-104381,2022-12-27,1,Great product and service!
+289,159,US-2023-151855,2022-06-07,1,Great product and service!
+291,400,US-2021-136658,2020-09-21,1,Great product and service!
+292,180,US-2022-109365,2021-11-12,1,Great product and service!
+293,758,US-2021-156510,2020-10-03,1,Great product and service!
+294,585,US-2023-152436,2022-12-14,1,Great product and service!
+295,377,US-2020-145254,2019-07-31,1,Great product and service!
+296,854,US-2020-120838,2019-03-30,1,Great product and service!
+297,689,US-2020-100881,2019-04-05,1,Great product and service!
+299,667,US-2022-134369,2021-09-26,1,Great product and service!
+300,519,US-2023-104619,2022-02-02,1,Great product and service!
+301,156,US-2022-144344,2021-11-01,1,Great product and service!
+302,409,US-2022-119018,2021-11-12,1,Great product and service!
+303,800,US-2022-129861,2021-06-27,1,Great product and service!
+304,380,US-2023-169901,2022-06-23,1,Great product and service!
+305,444,US-2023-154116,2022-12-23,1,Great product and service!
+306,799,US-2023-161956,2022-09-02,1,Great product and service!
+307,577,US-2022-138695,2021-06-07,1,Great product and service!
+308,372,US-2023-129357,2022-05-23,1,Great product and service!
+310,114,US-2021-145849,2020-09-21,1,Great product and service!
+311,332,US-2023-118864,2022-06-23,1,Great product and service!
+313,623,US-2021-147242,2020-09-18,1,Great product and service!
+314,412,US-2020-115084,2019-10-26,1,Great product and service!
+315,522,US-2022-119018,2021-11-12,1,Great product and service!
+316,624,US-2023-140480,2022-07-16,1,Great product and service!
+318,256,US-2022-146710,2021-09-05,1,Great product and service!
+321,241,US-2020-122959,2019-12-16,1,Great product and service!
+322,121,US-2020-150119,2019-05-01,1,Great product and service!
+323,673,US-2023-108854,2022-12-18,1,Great product and service!
+324,213,US-2023-147760,2022-11-09,1,Great product and service!
+325,642,US-2023-117667,2022-12-13,1,Great product and service!
+326,100,US-2022-167472,2021-06-11,1,Great product and service!
+327,389,US-2021-139780,2021-01-06,1,Great product and service!
+328,776,US-2023-123022,2022-09-12,1,Great product and service!
+329,799,US-2023-134404,2022-12-31,1,Great product and service!
+330,303,US-2023-145765,2022-06-06,1,Great product and service!
+331,718,US-2023-143770,2022-03-28,1,Great product and service!
+333,817,US-2022-130911,2021-03-30,1,Great product and service!
+334,518,US-2023-104661,2022-01-22,1,Great product and service!
+335,548,US-2023-132521,2022-09-29,1,Great product and service!
+336,122,US-2021-104346,2020-12-20,1,Great product and service!
+337,508,US-2023-131807,2022-10-14,1,Great product and service!
+338,500,US-2023-131807,2022-10-14,1,Great product and service!
+339,496,US-2022-143609,2021-12-17,1,Great product and service!
+340,528,US-2022-155187,2021-09-30,1,Great product and service!
+341,315,US-2020-115812,2019-06-18,1,Great product and service!
+343,371,US-2022-116799,2021-03-10,1,Great product and service!
+344,373,US-2022-141397,2021-06-25,1,Great product and service!
+345,658,US-2023-145093,2022-07-30,1,Great product and service!
+346,213,US-2023-103478,2022-07-28,1,Great product and service!
+347,523,US-2023-124401,2022-09-16,1,Great product and service!
+348,874,US-2021-168564,2020-08-12,1,Great product and service!
+349,387,US-2020-158771,2019-05-13,1,Great product and service!
+350,338,US-2023-119011,2022-08-29,1,Great product and service!
+351,32,US-2023-140844,2022-06-27,1,Great product and service!
+353,107,US-2023-128328,2022-08-13,1,Great product and service!
+354,440,US-2023-113201,2022-07-09,1,Great product and service!
+355,10,US-2022-137330,2021-12-17,1,Great product and service!
+357,306,US-2023-144526,2022-05-10,1,Great product and service!
+358,809,US-2022-132304,2021-06-22,1,Great product and service!
+359,61,US-2021-123218,2020-12-29,1,Great product and service!
+360,78,US-2020-103849,2019-05-20,1,Great product and service!
+361,669,US-2022-144015,2021-06-30,1,Great product and service!
+362,708,US-2020-151295,2019-11-20,1,Great product and service!
+363,827,US-2020-121762,2019-02-22,1,Great product and service!
+364,446,US-2023-145877,2022-04-08,1,Great product and service!
+365,134,US-2020-166961,2020-01-04,1,Great product and service!
+366,880,US-2021-111829,2020-03-24,1,Great product and service!
+368,514,US-2023-117807,2022-10-11,1,Great product and service!
+369,513,US-2020-147235,2019-04-01,1,Great product and service!
+370,736,US-2021-109862,2020-11-03,1,Great product and service!
+371,685,US-2023-142867,2022-03-25,1,Great product and service!
+372,219,US-2023-100902,2022-11-25,1,Great product and service!
+374,263,US-2023-152912,2022-11-16,1,Great product and service!
+375,771,US-2023-126788,2022-06-10,1,Great product and service!
+376,773,US-2021-115938,2020-07-04,1,Great product and service!
+377,91,US-2023-108000,2022-01-20,1,Great product and service!
+378,339,US-2020-126760,2019-08-06,1,Great product and service!
+379,517,US-2023-143455,2022-11-22,1,Great product and service!
+380,711,US-2023-158526,2023-01-05,1,Great product and service!
+382,489,US-2023-121251,2022-03-31,1,Great product and service!
+383,638,US-2020-128846,2019-04-16,1,Great product and service!
+384,447,US-2023-152436,2022-12-14,1,Great product and service!
+385,160,US-2023-124436,2022-03-26,1,Great product and service!
+386,132,US-2022-133144,2021-05-25,1,Great product and service!
+388,429,US-2020-147627,2019-01-30,1,Great product and service!
+389,215,US-2021-156328,2020-12-09,1,Great product and service!
+390,441,US-2023-100384,2022-07-05,1,Great product and service!
+391,786,US-2022-140256,2021-09-02,1,Great product and service!
+392,498,US-2023-104220,2022-02-09,1,Great product and service!
+393,841,US-2022-119515,2021-08-20,1,Great product and service!
+394,18,US-2022-157749,2021-06-13,1,Great product and service!
+395,782,US-2023-104731,2022-07-31,1,Great product and service!
+396,791,US-2022-126452,2021-09-01,1,Great product and service!
+398,284,US-2023-125451,2022-10-28,1,Great product and service!
+399,495,US-2022-146423,2021-04-25,1,Great product and service!
+400,844,US-2023-148264,2022-12-13,2,Delivery was faster than expected.
+401,823,US-2022-138695,2021-06-07,2,Delivery was faster than expected.
+402,606,US-2023-154816,2022-11-14,2,Delivery was faster than expected.
+403,225,US-2023-122770,2022-12-22,2,Delivery was faster than expected.
+404,724,US-2023-158512,2022-01-21,2,Delivery was faster than expected.
+405,157,US-2023-103065,2022-10-24,2,Delivery was faster than expected.
+406,879,US-2022-165169,2021-06-15,2,Delivery was faster than expected.
+408,150,US-2021-105221,2020-11-07,2,Delivery was faster than expected.
+409,217,US-2023-152961,2022-01-23,2,Delivery was faster than expected.
+410,387,US-2023-147361,2022-09-19,2,Delivery was faster than expected.
+411,376,US-2021-104129,2020-03-06,2,Delivery was faster than expected.
+412,576,US-2022-147375,2021-06-18,2,Delivery was faster than expected.
+413,743,US-2023-123701,2022-12-01,2,Delivery was faster than expected.
+414,83,US-2020-167724,2019-04-22,2,Delivery was faster than expected.
+415,462,US-2023-104731,2022-07-31,2,Delivery was faster than expected.
+416,867,US-2021-128027,2020-09-21,2,Delivery was faster than expected.
+417,694,US-2023-167920,2022-12-16,2,Delivery was faster than expected.
+418,381,US-2022-162747,2021-03-29,2,Delivery was faster than expected.
+419,844,US-2023-118521,2022-02-24,2,Delivery was faster than expected.
+420,90,US-2020-103800,2019-01-11,2,Delivery was faster than expected.
+421,480,US-2023-132521,2022-09-30,2,Delivery was faster than expected.
+422,42,US-2022-127971,2021-12-02,2,Delivery was faster than expected.
+424,822,US-2023-129357,2022-05-24,2,Delivery was faster than expected.
+425,214,US-2022-140613,2021-08-03,2,Delivery was faster than expected.
+427,656,US-2021-113145,2020-11-10,2,Delivery was faster than expected.
+428,150,US-2023-101539,2022-03-23,2,Delivery was faster than expected.
+429,345,US-2021-153794,2020-09-21,2,Delivery was faster than expected.
+430,179,US-2022-158806,2021-01-16,2,Delivery was faster than expected.
+431,416,US-2022-154536,2021-09-14,2,Delivery was faster than expected.
+432,815,US-2023-136868,2022-10-17,2,Delivery was faster than expected.
+433,452,US-2020-133354,2019-03-01,2,Delivery was faster than expected.
+434,367,US-2023-124597,2022-05-10,2,Delivery was faster than expected.
+435,707,US-2020-166989,2019-11-23,2,Delivery was faster than expected.
+436,57,US-2023-156237,2022-09-20,2,Delivery was faster than expected.
+437,870,US-2023-149706,2022-12-17,2,Delivery was faster than expected.
+438,397,US-2022-101742,2021-10-03,2,Delivery was faster than expected.
+439,294,US-2021-106187,2020-07-04,2,Delivery was faster than expected.
+440,95,US-2023-104619,2022-02-03,2,Delivery was faster than expected.
+442,356,US-2023-131212,2022-12-14,2,Delivery was faster than expected.
+443,249,US-2021-104493,2020-10-13,2,Delivery was faster than expected.
+444,5,US-2022-145177,2021-11-19,2,Delivery was faster than expected.
+445,765,US-2022-153815,2021-11-14,2,Delivery was faster than expected.
+446,601,US-2020-100853,2019-09-24,2,Delivery was faster than expected.
+447,687,US-2023-117401,2022-05-27,2,Delivery was faster than expected.
+448,115,US-2022-127698,2021-12-06,2,Delivery was faster than expected.
+449,764,US-2022-152730,2021-06-09,2,Delivery was faster than expected.
+450,230,US-2022-156748,2021-12-11,2,Delivery was faster than expected.
+451,318,US-2022-147683,2021-11-22,2,Delivery was faster than expected.
+452,540,US-2020-125829,2019-11-16,2,Delivery was faster than expected.
+453,213,US-2022-153815,2021-11-14,2,Delivery was faster than expected.
+455,185,US-2020-109855,2019-09-10,2,Delivery was faster than expected.
+456,426,US-2022-106306,2021-03-13,2,Delivery was faster than expected.
+457,548,US-2022-149902,2021-04-11,2,Delivery was faster than expected.
+458,186,US-2020-141796,2019-06-26,2,Delivery was faster than expected.
+459,276,US-2022-160500,2021-05-13,2,Delivery was faster than expected.
+460,71,US-2023-116715,2022-12-10,2,Delivery was faster than expected.
+461,487,US-2023-153633,2022-11-23,2,Delivery was faster than expected.
+462,189,US-2020-148614,2019-01-30,2,Delivery was faster than expected.
+463,803,US-2023-104731,2022-08-01,2,Delivery was faster than expected.
+465,187,US-2023-162558,2022-10-10,2,Delivery was faster than expected.
+466,825,US-2020-169775,2019-09-07,2,Delivery was faster than expected.
+467,737,US-2022-130946,2021-04-17,2,Delivery was faster than expected.
+468,879,US-2022-165169,2021-06-16,2,Delivery was faster than expected.
+469,150,US-2020-165806,2019-04-12,2,Delivery was faster than expected.
+470,382,US-2022-120250,2021-09-27,2,Delivery was faster than expected.
+471,585,US-2021-119214,2020-02-01,2,Delivery was faster than expected.
+472,812,US-2020-128846,2019-04-17,2,Delivery was faster than expected.
+473,568,US-2022-130911,2021-03-31,2,Delivery was faster than expected.
+474,788,US-2023-108854,2022-12-19,2,Delivery was faster than expected.
+475,38,US-2022-117387,2021-11-05,2,Delivery was faster than expected.
+476,202,US-2021-101924,2020-09-14,2,Delivery was faster than expected.
+478,562,US-2021-113901,2020-10-29,2,Delivery was faster than expected.
+479,450,US-2022-137848,2021-01-26,2,Delivery was faster than expected.
+480,315,US-2023-127306,2022-01-23,2,Delivery was faster than expected.
+482,616,US-2021-129553,2020-08-07,2,Delivery was faster than expected.
+483,692,US-2022-163167,2021-12-06,2,Delivery was faster than expected.
+485,810,US-2022-133144,2021-05-26,2,Delivery was faster than expected.
+486,730,US-2020-131947,2019-09-27,2,Delivery was faster than expected.
+487,852,US-2022-157714,2021-10-06,2,Delivery was faster than expected.
+488,563,US-2022-127138,2021-03-20,2,Delivery was faster than expected.
+490,548,US-2023-132521,2022-09-30,2,Delivery was faster than expected.
+491,313,US-2021-137960,2020-12-23,2,Delivery was faster than expected.
+493,599,US-2020-128846,2019-04-17,2,Delivery was faster than expected.
+494,117,US-2023-136721,2022-04-17,2,Delivery was faster than expected.
+495,229,US-2023-115931,2022-12-31,2,Delivery was faster than expected.
+496,447,US-2020-133753,2019-06-18,2,Delivery was faster than expected.
+498,566,US-2022-128671,2021-08-21,2,Delivery was faster than expected.
+499,867,US-2023-119746,2022-12-02,2,Delivery was faster than expected.
+500,115,US-2020-134103,2019-02-09,2,Delivery was faster than expected.
+501,659,US-2023-141614,2022-06-14,2,Delivery was faster than expected.
+503,279,US-2023-116715,2022-12-10,2,Delivery was faster than expected.
+505,539,US-2020-116190,2019-08-06,2,Delivery was faster than expected.
+507,415,US-2023-118136,2022-09-22,2,Delivery was faster than expected.
+508,832,US-2022-164350,2021-09-17,2,Delivery was faster than expected.
+509,741,US-2020-100678,2019-04-27,2,Delivery was faster than expected.
+510,23,US-2021-113404,2020-07-21,2,Delivery was faster than expected.
+511,220,US-2022-145982,2021-09-06,2,Delivery was faster than expected.
+512,354,US-2022-165169,2021-06-16,2,Delivery was faster than expected.
+513,107,US-2023-128328,2022-08-14,2,Delivery was faster than expected.
+514,259,US-2023-158967,2022-12-17,2,Delivery was faster than expected.
+515,884,US-2023-164756,2022-09-27,2,Delivery was faster than expected.
+516,549,US-2020-166989,2019-11-23,2,Delivery was faster than expected.
+517,17,US-2022-169824,2021-12-22,2,Delivery was faster than expected.
+518,486,US-2022-152415,2021-09-27,2,Delivery was faster than expected.
+519,856,US-2022-100244,2021-09-29,2,Delivery was faster than expected.
+522,453,US-2023-163188,2022-11-12,2,Delivery was faster than expected.
+523,283,US-2023-140872,2022-06-15,2,Delivery was faster than expected.
+524,543,US-2020-120852,2019-12-30,2,Delivery was faster than expected.
+526,579,US-2022-153269,2021-03-17,2,Delivery was faster than expected.
+527,304,US-2023-100111,2022-10-01,2,Delivery was faster than expected.
+528,660,US-2022-123750,2021-04-26,2,Delivery was faster than expected.
+529,29,US-2022-150350,2021-09-04,2,Delivery was faster than expected.
+530,426,US-2022-162859,2021-02-27,2,Delivery was faster than expected.
+531,787,US-2023-111745,2022-11-11,2,Delivery was faster than expected.
+533,871,US-2020-112914,2019-10-05,2,Delivery was faster than expected.
+534,467,US-2023-100111,2022-10-01,2,Delivery was faster than expected.
+535,536,US-2020-103429,2019-06-06,2,Delivery was faster than expected.
+536,591,US-2023-152912,2022-11-17,2,Delivery was faster than expected.
+537,322,US-2023-153045,2022-01-29,2,Delivery was faster than expected.
+538,321,US-2023-135279,2022-04-16,2,Delivery was faster than expected.
+539,488,US-2022-143910,2021-08-21,2,Delivery was faster than expected.
+541,172,US-2023-155740,2022-08-07,2,Delivery was faster than expected.
+542,219,US-2022-167472,2021-06-12,2,Delivery was faster than expected.
+543,252,US-2023-151225,2022-11-03,2,Delivery was faster than expected.
+544,693,US-2022-100244,2021-09-29,2,Delivery was faster than expected.
+545,871,US-2022-128671,2021-08-21,2,Delivery was faster than expected.
+546,572,US-2023-118346,2022-07-29,2,Delivery was faster than expected.
+547,487,US-2023-121048,2022-07-23,2,Delivery was faster than expected.
+548,882,US-2023-121125,2022-06-08,2,Delivery was faster than expected.
+549,644,US-2021-109862,2020-11-04,2,Delivery was faster than expected.
+550,646,US-2020-115973,2019-12-01,2,Delivery was faster than expected.
+552,534,US-2023-123491,2022-11-10,2,Delivery was faster than expected.
+553,177,US-2023-123022,2022-09-13,2,Delivery was faster than expected.
+554,684,US-2023-163902,2022-03-13,2,Delivery was faster than expected.
+555,665,US-2020-103401,2019-12-01,2,Delivery was faster than expected.
+556,710,US-2020-140914,2019-11-20,2,Delivery was faster than expected.
+557,831,US-2022-157336,2021-12-10,2,Delivery was faster than expected.
+558,791,US-2022-126452,2021-09-02,2,Delivery was faster than expected.
+559,550,US-2022-150483,2021-06-09,2,Delivery was faster than expected.
+560,179,US-2021-162166,2020-09-16,2,Delivery was faster than expected.
+561,139,US-2021-133585,2020-03-09,2,Delivery was faster than expected.
+562,599,US-2020-106726,2019-12-13,2,Delivery was faster than expected.
+563,525,US-2020-149104,2019-04-12,2,Delivery was faster than expected.
+564,743,US-2022-106306,2021-03-13,2,Delivery was faster than expected.
+565,55,US-2022-149279,2021-05-03,2,Delivery was faster than expected.
+566,358,US-2022-132899,2021-04-16,2,Delivery was faster than expected.
+567,306,US-2021-130995,2020-11-11,2,Delivery was faster than expected.
+568,385,US-2023-103611,2022-09-20,2,Delivery was faster than expected.
+570,100,US-2022-167472,2021-06-12,2,Delivery was faster than expected.
+571,744,US-2020-150490,2019-08-16,2,Delivery was faster than expected.
+572,368,US-2021-122910,2020-05-21,2,Delivery was faster than expected.
+573,100,US-2020-106264,2020-01-04,2,Delivery was faster than expected.
+574,296,US-2023-122770,2022-12-23,2,Delivery was faster than expected.
+575,757,US-2023-145093,2022-07-31,2,Delivery was faster than expected.
+576,246,US-2020-116190,2019-08-06,2,Delivery was faster than expected.
+577,131,US-2022-150483,2021-06-09,2,Delivery was faster than expected.
+578,9,US-2021-153038,2020-12-30,2,Delivery was faster than expected.
+579,428,US-2023-105487,2022-10-19,2,Delivery was faster than expected.
+580,305,US-2021-150630,2020-09-26,2,Delivery was faster than expected.
+581,292,US-2022-134936,2021-12-30,2,Delivery was faster than expected.
+582,315,US-2020-140914,2019-11-20,2,Delivery was faster than expected.
+583,384,US-2023-155957,2022-12-05,2,Delivery was faster than expected.
+584,822,US-2021-101924,2020-09-14,2,Delivery was faster than expected.
+586,91,US-2021-115420,2020-05-07,2,Delivery was faster than expected.
+588,243,US-2022-110772,2021-11-29,2,Delivery was faster than expected.
+589,662,US-2022-158568,2021-09-07,2,Delivery was faster than expected.
+590,44,US-2021-163279,2020-03-31,2,Delivery was faster than expected.
+592,264,US-2023-142188,2022-09-16,2,Delivery was faster than expected.
+593,13,US-2022-151323,2021-11-02,2,Delivery was faster than expected.
+594,163,US-2022-160500,2021-05-13,2,Delivery was faster than expected.
+595,765,US-2023-147760,2022-11-10,2,Delivery was faster than expected.
+596,852,US-2022-159415,2021-04-27,2,Delivery was faster than expected.
+597,568,US-2023-128363,2022-08-23,2,Delivery was faster than expected.
+598,350,US-2023-115427,2023-01-08,2,Delivery was faster than expected.
+599,352,US-2023-103380,2022-11-30,2,Delivery was faster than expected.
+600,538,US-2021-130785,2020-09-14,2,Delivery was faster than expected.
+601,654,US-2023-115805,2022-08-05,2,Delivery was faster than expected.
+602,448,US-2020-119151,2019-12-04,2,Delivery was faster than expected.
+603,627,US-2023-102267,2022-12-09,2,Delivery was faster than expected.
+604,410,US-2022-123120,2021-09-13,2,Delivery was faster than expected.
+605,411,US-2023-127656,2022-07-22,2,Delivery was faster than expected.
+607,503,US-2022-117408,2021-09-11,2,Delivery was faster than expected.
+608,5,US-2022-145177,2021-11-19,2,Delivery was faster than expected.
+609,227,US-2022-169040,2021-12-17,2,Delivery was faster than expected.
+610,541,US-2022-106313,2021-08-31,2,Delivery was faster than expected.
+612,772,US-2022-109400,2021-05-11,2,Delivery was faster than expected.
+613,131,US-2023-154760,2022-01-18,2,Delivery was faster than expected.
+616,508,US-2023-145597,2022-11-10,2,Delivery was faster than expected.
+619,60,US-2022-164574,2021-08-09,2,Delivery was faster than expected.
+621,62,US-2023-157483,2022-11-24,2,Delivery was faster than expected.
+622,712,US-2020-130869,2019-11-27,2,Delivery was faster than expected.
+623,350,US-2022-150357,2021-10-20,2,Delivery was faster than expected.
+624,125,US-2023-112487,2023-01-05,2,Delivery was faster than expected.
+625,708,US-2023-158379,2022-10-02,2,Delivery was faster than expected.
+626,569,US-2021-129546,2020-10-11,2,Delivery was faster than expected.
+627,351,US-2023-159149,2022-02-25,2,Delivery was faster than expected.
+628,576,US-2022-147683,2021-11-23,2,Delivery was faster than expected.
+629,281,US-2023-154760,2022-01-19,2,Delivery was faster than expected.
+630,526,US-2023-101539,2022-03-24,2,Delivery was faster than expected.
+632,389,US-2022-148740,2021-11-25,2,Delivery was faster than expected.
+633,34,US-2023-169474,2022-02-15,2,Delivery was faster than expected.
+635,89,US-2021-105221,2020-11-09,2,Delivery was faster than expected.
+636,240,US-2021-117184,2020-05-27,2,Delivery was faster than expected.
+638,163,US-2022-136231,2021-09-13,2,Delivery was faster than expected.
+639,183,US-2022-100944,2021-10-04,2,Delivery was faster than expected.
+640,199,US-2021-119627,2020-08-29,2,Delivery was faster than expected.
+641,305,US-2020-142587,2019-10-28,2,Delivery was faster than expected.
+642,166,US-2022-136231,2021-09-13,2,Delivery was faster than expected.
+643,542,US-2022-144057,2021-05-19,2,Delivery was faster than expected.
+644,262,US-2023-165029,2022-12-06,2,Delivery was faster than expected.
+645,663,US-2022-142545,2021-11-09,2,Delivery was faster than expected.
+647,499,US-2023-106103,2022-06-21,2,Delivery was faster than expected.
+649,109,US-2023-132444,2022-11-27,2,Delivery was faster than expected.
+651,347,US-2021-109862,2020-11-05,2,Delivery was faster than expected.
+652,217,US-2021-123568,2020-11-20,2,Delivery was faster than expected.
+653,550,US-2020-153976,2019-10-14,2,Delivery was faster than expected.
+654,559,US-2023-148264,2022-12-15,2,Delivery was faster than expected.
+655,679,US-2023-126788,2022-06-12,2,Delivery was faster than expected.
+656,636,US-2020-151295,2019-11-22,2,Delivery was faster than expected.
+657,565,US-2023-102337,2022-06-22,2,Delivery was faster than expected.
+658,317,US-2022-152471,2021-07-14,2,Delivery was faster than expected.
+659,258,US-2023-140907,2022-12-18,2,Delivery was faster than expected.
+660,224,US-2023-116855,2022-12-27,2,Delivery was faster than expected.
+661,780,US-2023-141614,2022-06-15,2,Delivery was faster than expected.
+662,127,US-2021-111339,2020-06-06,2,Delivery was faster than expected.
+663,743,US-2022-162859,2021-02-28,2,Delivery was faster than expected.
+664,879,US-2023-137631,2022-05-08,2,Delivery was faster than expected.
+666,833,US-2021-122210,2020-12-10,2,Delivery was faster than expected.
+667,391,US-2022-133368,2021-01-26,2,Delivery was faster than expected.
+668,639,US-2023-144848,2022-04-11,2,Delivery was faster than expected.
+669,34,US-2023-144113,2022-09-26,2,Delivery was faster than expected.
+671,469,US-2022-149482,2021-11-25,2,Delivery was faster than expected.
+672,96,US-2021-105158,2020-09-16,2,Delivery was faster than expected.
+673,649,US-2021-119627,2020-08-29,2,Delivery was faster than expected.
+674,752,US-2023-150910,2023-01-03,2,Delivery was faster than expected.
+676,353,US-2022-152765,2021-06-24,2,Delivery was faster than expected.
+677,66,US-2022-153815,2021-11-15,2,Delivery was faster than expected.
+678,88,US-2022-159912,2021-09-09,2,Delivery was faster than expected.
+679,685,US-2021-164539,2020-11-28,2,Delivery was faster than expected.
+680,200,US-2022-154361,2021-03-25,2,Delivery was faster than expected.
+681,534,US-2023-123491,2022-11-11,2,Delivery was faster than expected.
+682,468,US-2023-137498,2022-09-20,2,Delivery was faster than expected.
+683,638,US-2023-124114,2022-03-08,2,Delivery was faster than expected.
+684,296,US-2023-157483,2022-11-24,2,Delivery was faster than expected.
+685,494,US-2022-147375,2021-06-20,2,Delivery was faster than expected.
+686,751,US-2022-126844,2021-10-20,2,Delivery was faster than expected.
+688,72,US-2021-168564,2020-08-14,2,Delivery was faster than expected.
+689,764,US-2023-134915,2022-11-18,2,Delivery was faster than expected.
+690,426,US-2021-129553,2020-08-08,2,Delivery was faster than expected.
+691,637,US-2022-143910,2021-08-22,2,Delivery was faster than expected.
+692,750,US-2023-133718,2022-08-01,2,Delivery was faster than expected.
+693,182,US-2022-136686,2021-12-22,2,Delivery was faster than expected.
+694,494,US-2022-147683,2021-11-23,2,Delivery was faster than expected.
+695,86,US-2023-100580,2022-08-26,2,Delivery was faster than expected.
+696,211,US-2020-156349,2019-06-05,2,Delivery was faster than expected.
+698,315,US-2023-127306,2022-01-24,2,Delivery was faster than expected.
+699,57,US-2022-153269,2021-03-18,2,Delivery was faster than expected.
+700,535,US-2023-162565,2022-12-17,2,Delivery was faster than expected.
+701,188,US-2023-156776,2022-08-17,2,Delivery was faster than expected.
+702,827,US-2020-156349,2019-06-05,2,Delivery was faster than expected.
+703,857,US-2022-165330,2021-12-17,2,Delivery was faster than expected.
+704,190,US-2022-109925,2021-11-16,2,Delivery was faster than expected.
+706,395,US-2023-131807,2022-10-16,2,Delivery was faster than expected.
+707,447,US-2021-119214,2020-02-02,2,Delivery was faster than expected.
+708,126,US-2022-152730,2021-06-10,2,Delivery was faster than expected.
+710,113,US-2023-155957,2022-12-06,2,Delivery was faster than expected.
+711,577,US-2023-123687,2022-06-04,2,Delivery was faster than expected.
+712,450,US-2020-120852,2019-12-31,2,Delivery was faster than expected.
+713,482,US-2023-100111,2022-10-02,2,Delivery was faster than expected.
+714,283,US-2022-109400,2021-05-12,2,Delivery was faster than expected.
+715,198,US-2023-151225,2022-11-04,2,Delivery was faster than expected.
+716,122,US-2022-109925,2021-11-16,2,Delivery was faster than expected.
+717,222,US-2023-105480,2023-01-01,2,Delivery was faster than expected.
+718,169,US-2022-117660,2022-01-10,2,Delivery was faster than expected.
+719,780,US-2021-123155,2020-03-18,2,Delivery was faster than expected.
+720,621,US-2022-136686,2021-12-22,2,Delivery was faster than expected.
+721,384,US-2020-124688,2019-09-04,2,Delivery was faster than expected.
+724,143,US-2021-115938,2020-07-06,2,Delivery was faster than expected.
+725,502,US-2020-106726,2019-12-14,2,Delivery was faster than expected.
+726,658,US-2023-103065,2022-10-26,2,Delivery was faster than expected.
+727,57,US-2022-153269,2021-03-18,2,Delivery was faster than expected.
+728,346,US-2021-140921,2020-02-11,2,Delivery was faster than expected.
+729,45,US-2023-116939,2022-10-05,2,Delivery was faster than expected.
+730,364,US-2023-122175,2022-05-20,2,Delivery was faster than expected.
+731,848,US-2021-128125,2020-04-11,2,Delivery was faster than expected.
+732,685,US-2022-147375,2021-06-20,2,Delivery was faster than expected.
+733,887,US-2023-164756,2022-09-28,2,Delivery was faster than expected.
+734,561,US-2023-164756,2022-09-28,2,Delivery was faster than expected.
+735,256,US-2021-154900,2020-03-07,2,Delivery was faster than expected.
+736,505,US-2023-137498,2022-09-20,2,Delivery was faster than expected.
+737,437,US-2023-162558,2022-10-11,2,Delivery was faster than expected.
+738,192,US-2023-157987,2022-09-12,2,Delivery was faster than expected.
+740,231,US-2021-140375,2020-10-11,2,Delivery was faster than expected.
+741,873,US-2020-121629,2019-12-08,2,Delivery was faster than expected.
+742,411,US-2021-115511,2020-12-01,2,Delivery was faster than expected.
+743,113,US-2022-157707,2021-10-18,2,Delivery was faster than expected.
+744,688,US-2022-105459,2021-08-23,2,Delivery was faster than expected.
+745,480,US-2022-149902,2021-04-12,2,Delivery was faster than expected.
+746,743,US-2020-109890,2019-08-02,2,Delivery was faster than expected.
+747,760,US-2022-100461,2021-01-18,2,Delivery was faster than expected.
+748,802,US-2020-113047,2019-10-30,2,Delivery was faster than expected.
+749,482,US-2022-136581,2021-11-18,2,Delivery was faster than expected.
+750,200,US-2023-108931,2022-09-25,2,Delivery was faster than expected.
+751,625,US-2020-137274,2019-04-08,2,Delivery was faster than expected.
+753,493,US-2022-142545,2021-11-09,2,Delivery was faster than expected.
+754,858,US-2022-131289,2021-12-20,2,Delivery was faster than expected.
+755,72,US-2023-113201,2022-07-11,2,Delivery was faster than expected.
+757,223,US-2021-135853,2020-12-20,2,Delivery was faster than expected.
+758,345,US-2020-158771,2019-05-15,2,Delivery was faster than expected.
+759,140,US-2021-119697,2021-01-06,2,Delivery was faster than expected.
+760,786,US-2022-113607,2021-10-24,2,Delivery was faster than expected.
+761,833,US-2022-137848,2021-01-27,2,Delivery was faster than expected.
+762,813,US-2023-149888,2022-11-19,2,Delivery was faster than expected.
+763,178,US-2023-163139,2022-12-09,2,Delivery was faster than expected.
+764,713,US-2023-100223,2022-07-16,2,Delivery was faster than expected.
+765,486,US-2023-128328,2022-08-15,2,Delivery was faster than expected.
+766,671,US-2023-131037,2022-08-29,2,Delivery was faster than expected.
+767,500,US-2023-131807,2022-10-16,2,Delivery was faster than expected.
+768,474,US-2023-144498,2022-05-12,2,Delivery was faster than expected.
+769,637,US-2023-120418,2022-06-18,2,Delivery was faster than expected.
+770,380,US-2023-123071,2022-12-12,2,Delivery was faster than expected.
+771,273,US-2022-101385,2021-10-07,2,Delivery was faster than expected.
+772,617,US-2021-169397,2021-01-02,2,Delivery was faster than expected.
+773,529,US-2023-158505,2022-07-27,2,Delivery was faster than expected.
+774,499,US-2023-122539,2022-12-11,2,Delivery was faster than expected.
+775,151,US-2021-129896,2020-06-26,2,Delivery was faster than expected.
+776,318,US-2023-118346,2022-07-30,2,Delivery was faster than expected.
+777,99,US-2020-103429,2019-06-07,2,Delivery was faster than expected.
+779,463,US-2023-108343,2022-07-31,2,Delivery was faster than expected.
+780,16,US-2023-141439,2022-12-07,2,Delivery was faster than expected.
+781,344,US-2023-127782,2022-11-12,2,Delivery was faster than expected.
+782,180,US-2022-163174,2021-09-05,2,Delivery was faster than expected.
+783,237,US-2022-164945,2021-12-03,2,Delivery was faster than expected.
+784,251,US-2023-106663,2022-06-19,2,Delivery was faster than expected.
+785,405,US-2022-168893,2021-11-14,2,Delivery was faster than expected.
+786,581,US-2021-158421,2020-10-02,2,Delivery was faster than expected.
+788,609,US-2023-169901,2022-06-25,2,Delivery was faster than expected.
+789,524,US-2022-105578,2021-06-10,2,Delivery was faster than expected.
+790,126,US-2023-134915,2022-11-18,2,Delivery was faster than expected.
+791,458,US-2022-169040,2021-12-18,2,Delivery was faster than expected.
+792,735,US-2022-163328,2021-11-12,2,Delivery was faster than expected.
+793,152,US-2021-105844,2020-11-02,2,Delivery was faster than expected.
+794,372,US-2021-138674,2020-11-23,2,Delivery was faster than expected.
+795,521,US-2020-102652,2019-04-19,2,Delivery was faster than expected.
+796,302,US-2023-130148,2022-10-05,2,Delivery was faster than expected.
+797,773,US-2020-133354,2019-03-03,2,Delivery was faster than expected.
+798,43,US-2022-118689,2021-10-16,2,Delivery was faster than expected.
+799,81,US-2023-121048,2022-07-25,2,Delivery was faster than expected.
+800,888,US-2022-140256,2021-09-05,2,Delivery was faster than expected.
+801,21,US-2022-128727,2021-09-11,2,Delivery was faster than expected.
+802,467,US-2022-136581,2021-11-19,2,Delivery was faster than expected.
+803,219,US-2022-167472,2021-06-14,2,Delivery was faster than expected.
+804,304,US-2020-134572,2019-04-29,2,Delivery was faster than expected.
+805,333,US-2020-156349,2019-06-06,2,Delivery was faster than expected.
+807,529,US-2022-132899,2021-04-18,2,Delivery was faster than expected.
+808,120,US-2023-144113,2022-09-27,2,Delivery was faster than expected.
+809,452,US-2023-127264,2022-04-12,2,Delivery was faster than expected.
+810,599,US-2023-152856,2022-09-17,2,Delivery was faster than expected.
+811,540,US-2022-137848,2021-01-28,2,Delivery was faster than expected.
+812,681,US-2023-131954,2022-02-01,2,Delivery was faster than expected.
+813,826,US-2023-144904,2022-10-08,2,Delivery was faster than expected.
+814,803,US-2022-145905,2021-09-30,2,Delivery was faster than expected.
+816,374,US-2023-136448,2022-09-25,2,Delivery was faster than expected.
+818,285,US-2021-109603,2020-02-08,2,Delivery was faster than expected.
+819,160,US-2020-133354,2019-03-03,2,Delivery was faster than expected.
+821,227,US-2023-161774,2022-05-22,2,Delivery was faster than expected.
+822,20,US-2020-152254,2019-07-07,2,Delivery was faster than expected.
+823,110,US-2023-160458,2022-06-05,2,Delivery was faster than expected.
+824,707,US-2021-160171,2020-10-31,2,Delivery was faster than expected.
+825,679,US-2023-101042,2022-11-30,2,Delivery was faster than expected.
+826,765,US-2023-103478,2022-07-31,2,Delivery was faster than expected.
+827,359,US-2023-107853,2022-06-07,2,Delivery was faster than expected.
+828,503,US-2022-142370,2021-09-30,2,Delivery was faster than expected.
+829,355,US-2023-132297,2022-06-09,2,Delivery was faster than expected.
+830,854,US-2023-128328,2022-08-16,2,Delivery was faster than expected.
+831,776,US-2022-123533,2021-12-07,2,Delivery was faster than expected.
+832,275,US-2021-136105,2020-06-23,2,Delivery was faster than expected.
+833,779,US-2023-100580,2022-08-27,2,Delivery was faster than expected.
+834,884,US-2020-120544,2019-12-04,2,Delivery was faster than expected.
+836,217,US-2021-123568,2020-11-21,2,Delivery was faster than expected.
+838,559,US-2023-118521,2022-02-27,2,Delivery was faster than expected.
+839,2,US-2021-103954,2020-08-20,2,Delivery was faster than expected.
+840,604,US-2022-144344,2021-11-04,2,Delivery was faster than expected.
+841,133,US-2023-101042,2022-11-30,2,Delivery was faster than expected.
+842,574,US-2023-139199,2022-12-20,2,Delivery was faster than expected.
+843,262,US-2023-125451,2022-10-31,2,Delivery was faster than expected.
+844,579,US-2021-143147,2020-06-04,2,Delivery was faster than expected.
+845,112,US-2022-152800,2021-04-22,2,Delivery was faster than expected.
+846,736,US-2023-141677,2022-04-06,2,Delivery was faster than expected.
+847,222,US-2022-127138,2021-03-22,2,Delivery was faster than expected.
+848,874,US-2022-146766,2021-11-11,2,Delivery was faster than expected.
+849,25,US-2021-162166,2020-09-18,2,Delivery was faster than expected.
+850,349,US-2022-144057,2021-05-20,2,Delivery was faster than expected.
+851,370,US-2020-163552,2019-07-22,2,Delivery was faster than expected.
+852,227,US-2020-128209,2019-11-29,2,Delivery was faster than expected.
+853,438,US-2021-127824,2020-10-29,2,Delivery was faster than expected.
+854,202,US-2021-138674,2020-11-24,2,Delivery was faster than expected.
+855,157,US-2023-145093,2022-08-02,2,Delivery was faster than expected.
+856,5,US-2022-145177,2021-11-21,2,Delivery was faster than expected.
+857,458,US-2023-161774,2022-05-22,2,Delivery was faster than expected.
+859,395,US-2023-157112,2022-05-03,2,Delivery was faster than expected.
+860,563,US-2022-155481,2021-09-12,2,Delivery was faster than expected.
+861,408,US-2020-141110,2019-12-08,2,Delivery was faster than expected.
+864,178,US-2020-154158,2020-01-03,2,Delivery was faster than expected.
+865,723,US-2023-106103,2022-06-22,3,Product quality could be better.
+866,424,US-2023-144526,2022-05-13,3,Product quality could be better.
+869,384,US-2022-157707,2021-10-19,3,Product quality could be better.
+870,500,US-2020-106439,2019-11-11,3,Product quality could be better.
+871,699,US-2023-115427,2023-01-10,3,Product quality could be better.
+872,731,US-2021-115742,2020-04-29,3,Product quality could be better.
+873,546,US-2021-105571,2020-11-18,3,Product quality could be better.
+874,296,US-2022-131611,2021-11-16,3,Product quality could be better.
+875,51,US-2022-112669,2021-04-21,3,Product quality could be better.
+876,444,US-2021-168732,2020-12-23,3,Product quality could be better.
+877,737,US-2021-106978,2020-10-11,3,Product quality could be better.
+879,891,US-2022-108105,2021-03-02,3,Product quality could be better.
+880,454,US-2020-150924,2019-09-23,3,Product quality could be better.
+882,722,US-2023-158743,2022-11-03,3,Product quality could be better.
+884,76,US-2022-166282,2021-04-29,3,Product quality could be better.
+885,309,US-2020-122931,2019-10-10,3,Product quality could be better.
+886,539,US-2021-140375,2020-10-12,3,Product quality could be better.
+887,271,US-2023-102197,2023-01-02,3,Product quality could be better.
+888,595,US-2020-131009,2019-03-12,3,Product quality could be better.
+889,885,US-2023-145765,2022-06-09,3,Product quality could be better.
+890,479,US-2020-143336,2019-09-08,3,Product quality could be better.
+891,305,US-2023-133718,2022-08-02,3,Product quality could be better.
+892,571,US-2023-156776,2022-08-18,3,Product quality could be better.
+893,812,US-2023-152856,2022-09-17,3,Product quality could be better.
+894,89,US-2020-165806,2019-04-14,3,Product quality could be better.
+895,331,US-2023-148831,2022-10-22,3,Product quality could be better.
+896,450,US-2021-122210,2020-12-11,3,Product quality could be better.
+897,231,US-2020-116190,2019-08-08,3,Product quality could be better.
+898,877,US-2023-123043,2022-09-05,3,Product quality could be better.
+899,244,US-2023-127292,2022-01-30,3,Product quality could be better.
+900,424,US-2022-142097,2021-10-27,3,Product quality could be better.
+902,52,US-2021-128608,2020-01-24,3,Product quality could be better.
+903,687,US-2022-145177,2021-11-21,3,Product quality could be better.
+904,63,US-2022-141957,2021-07-28,3,Product quality could be better.
+905,120,US-2023-169474,2022-02-16,3,Product quality could be better.
+906,417,US-2023-162481,2022-10-06,3,Product quality could be better.
+907,515,US-2021-114468,2020-08-30,3,Product quality could be better.
+908,14,US-2022-114174,2021-09-21,3,Product quality could be better.
+909,873,US-2022-146423,2021-04-28,3,Product quality could be better.
+910,794,US-2020-128237,2019-04-06,3,Product quality could be better.
+911,833,US-2022-165330,2021-12-18,3,Product quality could be better.
+912,266,US-2020-160094,2019-05-09,3,Product quality could be better.
+915,615,US-2023-124779,2022-09-18,3,Product quality could be better.
+917,304,US-2023-100111,2022-10-03,3,Product quality could be better.
+918,705,US-2023-128265,2022-11-29,3,Product quality could be better.
+919,655,US-2021-135685,2020-11-25,3,Product quality could be better.
+920,448,US-2021-135685,2020-11-25,3,Product quality could be better.
+921,460,US-2023-129462,2022-06-28,3,Product quality could be better.
+922,885,US-2020-127383,2020-01-12,3,Product quality could be better.
+924,493,US-2022-168046,2021-02-04,3,Product quality could be better.
+925,418,US-2021-139759,2020-09-06,3,Product quality could be better.
+926,265,US-2023-124779,2022-09-18,3,Product quality could be better.
+927,630,US-2022-157266,2021-06-08,3,Product quality could be better.
+928,762,US-2020-115413,2019-09-08,3,Product quality could be better.
+929,307,US-2023-118087,2022-09-20,3,Product quality could be better.
+930,653,US-2022-149111,2021-04-28,3,Product quality could be better.
+931,763,US-2023-140536,2022-04-12,3,Product quality could be better.
+932,782,US-2020-145387,2019-11-09,3,Product quality could be better.
+934,804,US-2023-140298,2022-05-24,3,Product quality could be better.
+936,405,US-2020-113047,2019-10-31,3,Product quality could be better.
+937,784,US-2023-103506,2022-08-03,3,Product quality could be better.
+938,165,US-2021-137708,2020-12-02,3,Product quality could be better.
+941,427,US-2020-108147,2019-06-20,3,Product quality could be better.
+942,283,US-2022-152688,2021-10-27,3,Product quality could be better.
+943,122,US-2022-140501,2021-07-05,3,Product quality could be better.
+944,857,US-2021-122210,2020-12-11,3,Product quality could be better.
+945,390,US-2023-116855,2022-12-28,3,Product quality could be better.
+947,709,US-2022-153269,2021-03-19,3,Product quality could be better.
+948,850,US-2020-132451,2019-10-04,3,Product quality could be better.
+949,606,US-2022-120369,2021-11-04,3,Product quality could be better.
+950,198,US-2023-115931,2023-01-02,3,Product quality could be better.
+951,465,US-2020-125514,2019-09-29,3,Product quality could be better.
+952,342,US-2023-122035,2022-08-01,3,Product quality could be better.
+953,291,US-2023-125717,2022-10-08,3,Product quality could be better.
+954,579,US-2022-153269,2021-03-19,3,Product quality could be better.
+955,381,US-2020-122070,2019-05-01,3,Product quality could be better.
+956,378,US-2023-107888,2022-11-26,3,Product quality could be better.
+957,644,US-2023-141677,2022-04-06,3,Product quality could be better.
+958,138,US-2020-138527,2019-09-24,3,Product quality could be better.
+960,762,US-2022-145177,2021-11-21,3,Product quality could be better.
+961,631,US-2021-142419,2020-07-20,3,Product quality could be better.
+963,296,US-2021-163587,2020-03-25,3,Product quality could be better.
+964,357,US-2020-105270,2019-11-25,3,Product quality could be better.
+965,328,US-2021-114069,2020-07-22,3,Product quality could be better.
+966,779,US-2022-148901,2021-05-26,3,Product quality could be better.
+968,156,US-2021-129553,2020-08-09,3,Product quality could be better.
+969,868,US-2022-111682,2021-06-25,3,Product quality could be better.
+970,851,US-2023-120404,2022-12-01,3,Product quality could be better.
+971,142,US-2020-143840,2019-06-05,3,Product quality could be better.
+973,583,US-2023-100223,2022-07-17,3,Product quality could be better.
+974,543,US-2022-137848,2021-01-28,3,Product quality could be better.
+975,5,US-2020-115413,2019-09-08,3,Product quality could be better.
+976,40,US-2020-138940,2019-04-23,3,Product quality could be better.
+977,219,US-2020-106264,2020-01-06,3,Product quality could be better.
+978,700,US-2021-141565,2020-10-01,3,Product quality could be better.
+979,805,US-2022-153661,2021-02-07,3,Product quality could be better.
+980,181,US-2020-142769,2019-09-20,3,Product quality could be better.
+981,776,US-2022-123533,2021-12-08,3,Product quality could be better.
+982,315,US-2020-115812,2019-06-22,3,Product quality could be better.
+983,572,US-2022-147375,2021-06-22,3,Product quality could be better.
+984,228,US-2020-119172,2019-05-23,3,Product quality could be better.
+985,502,US-2023-124114,2022-03-10,3,Product quality could be better.
+986,872,US-2023-116358,2022-11-14,3,Product quality could be better.
+987,614,US-2020-127131,2019-12-08,3,Product quality could be better.
+988,736,US-2021-150875,2020-11-28,3,Product quality could be better.
+990,518,US-2021-141040,2020-10-21,3,Product quality could be better.
+993,227,US-2023-161774,2022-05-23,3,Product quality could be better.
+994,837,US-2022-145898,2021-10-04,3,Product quality could be better.
+995,237,US-2022-168081,2021-05-05,3,Product quality could be better.
+996,628,US-2020-122959,2019-12-20,3,Product quality could be better.
+998,281,US-2020-153976,2019-10-16,3,Product quality could be better.
+999,19,US-2023-103611,2022-09-23,3,Product quality could be better.
+1000,158,US-2023-139493,2022-09-27,3,Product quality could be better.
+13,432,US-2020-127978,2019-03-10,1,Disappointed with the product quality.
+23,528,US-2020-163552,2019-07-17,1,Not as described in the listing.
+2,261,US-2021-104346,2020-12-18,1,Product arrived damaged.
+41,160,US-2021-115938,2020-07-02,1,Not as described in the listing.
+58,195,US-2021-123568,2020-11-16,1,"Regret this purchase, had to return it."
+913,339,US-2020-100678,2019-04-29,3,"Not worth the price, very disappointed."
+117,312,US-2020-100853,2019-09-22,1,"Regret this purchase, had to return it."
+290,98,US-2020-101931,2019-11-04,1,Product arrived damaged.
+709,56,US-2020-104759,2019-04-10,2,Product arrived damaged.
+972,275,US-2020-105165,2019-09-17,3,Product arrived damaged.
+867,341,US-2020-105417,2019-01-19,3,"Regret this purchase, had to return it."
+229,74,US-2020-106264,2020-01-02,1,Unsatisfactory experience overall.
+933,35,US-2020-106439,2019-11-11,3,Not as described in the listing.
+525,214,US-2020-107524,2019-03-13,2,"Poor performance, had to return it."
+84,247,US-2020-108147,2019-06-16,1,Unsatisfactory experience overall.
+113,191,US-2020-108182,2019-02-13,1,Product stopped working after a few days.
+868,193,US-2020-108273,2019-12-28,3,"Regret this purchase, had to return it."
+756,375,US-2020-109855,2019-09-11,2,Product stopped working after a few days.
+141,156,US-2020-109890,2019-07-30,1,"Not worth the price, very disappointed."
+441,267,US-2020-110555,2019-04-23,2,"Faulty product, waste of money."
+373,300,US-2020-110786,2020-01-06,1,"Poor performance, had to return it."
+705,300,US-2020-110786,2020-01-08,2,Did not meet my expectations.
+504,838,US-2020-112158,2019-12-09,2,Unsatisfactory experience overall.
+506,457,US-2020-112914,2019-10-05,2,Not as described in the listing.
+481,294,US-2020-114188,2019-05-27,2,"Not worth the price, very disappointed."
+332,310,US-2020-114251,2019-11-14,1,"Regret this purchase, had to return it."
+723,698,US-2020-115791,2019-01-24,2,"Not worth the price, very disappointed."
+191,165,US-2020-115973,2019-11-29,1,"Not worth the price, very disappointed."
+778,680,US-2020-120775,2019-10-13,2,Product arrived damaged.
+137,540,US-2020-120852,2019-12-28,1,"Faulty product, waste of money."
+697,259,US-2020-121629,2019-12-08,2,"Not worth the price, very disappointed."
+591,333,US-2020-121762,2019-02-23,2,Product arrived damaged.
+631,732,US-2020-123183,2019-12-01,2,"Poor performance, had to return it."
+239,732,US-2020-123183,2019-11-29,1,"Not worth the price, very disappointed."
+585,103,US-2020-123498,2019-11-14,2,Disappointed with the product quality.
+611,695,US-2020-125542,2019-12-12,2,"Not worth the price, very disappointed."
+614,501,US-2020-126032,2019-07-03,2,"Not worth the price, very disappointed."
+423,741,US-2020-126760,2019-08-07,2,Unsatisfactory experience overall.
+115,136,US-2020-128209,2019-11-25,1,Unsatisfactory experience overall.
+255,643,US-2020-129364,2019-12-17,1,"Poor performance, had to return it."
+858,631,US-2020-131009,2019-03-12,2,"Not worth the price, very disappointed."
+637,636,US-2020-131947,2019-09-28,2,"Faulty product, waste of money."
+130,591,US-2020-134733,2019-10-01,1,Disappointed with the product quality.
+615,37,US-2020-137155,2019-11-10,2,Product stopped working after a few days.
+381,647,US-2020-140914,2019-11-19,1,"Regret this purchase, had to return it."
+236,242,US-2020-141796,2019-06-25,1,Not as described in the listing.
+648,747,US-2020-142587,2019-10-28,2,Not as described in the listing.
+835,75,US-2020-142769,2019-09-20,2,Product arrived damaged.
+352,329,US-2020-144078,2019-12-03,1,Did not meet my expectations.
+249,359,US-2020-147235,2019-04-01,1,Product stopped working after a few days.
+992,487,US-2020-151330,2019-10-25,3,Unsatisfactory experience overall.
+687,701,US-2020-151953,2019-10-01,2,Did not meet my expectations.
+587,489,US-2020-154893,2020-01-01,2,"Poor performance, had to return it."
+820,423,US-2020-155264,2019-10-29,2,Product arrived damaged.
+722,477,US-2020-156433,2019-10-02,2,Not as described in the listing.
+675,569,US-2020-157231,2019-04-15,2,Product stopped working after a few days.
+540,718,US-2020-157546,2019-07-27,2,"Regret this purchase, had to return it."
+312,144,US-2020-159520,2019-06-15,1,Product stopped working after a few days.
+309,144,US-2020-159520,2019-06-15,1,Not as described in the listing.
+280,449,US-2020-162775,2019-01-19,1,"Poor performance, had to return it."
+407,449,US-2020-162775,2019-01-19,2,Did not meet my expectations.
+492,715,US-2020-164315,2019-04-13,2,Product stopped working after a few days.
+104,715,US-2020-164315,2019-04-11,1,Unsatisfactory experience overall.
+320,677,US-2020-164973,2019-11-13,1,Product stopped working after a few days.
+606,526,US-2020-165806,2019-04-12,2,Not as described in the listing.
+145,651,US-2020-166471,2019-08-16,1,"Faulty product, waste of money."
+878,783,US-2020-167486,2019-12-08,3,Product stopped working after a few days.
+426,653,US-2020-167724,2019-04-23,2,Product stopped working after a few days.
+665,775,US-2020-168984,2019-12-08,2,Not as described in the listing.
+163,845,US-2020-169649,2019-12-18,1,"Faulty product, waste of money."
+207,403,US-2021-100818,2020-06-08,1,Disappointed with the product quality.
+962,403,US-2021-100818,2020-06-12,3,"Not worth the price, very disappointed."
+935,451,US-2021-102281,2020-10-21,3,"Faulty product, waste of money."
+265,598,US-2021-102876,2020-09-18,1,Did not meet my expectations.
+162,690,US-2021-105571,2020-11-14,1,"Faulty product, waste of money."
+521,650,US-2021-106187,2020-07-04,2,Not as described in the listing.
+940,260,US-2021-106978,2020-10-11,3,"Faulty product, waste of money."
+317,425,US-2021-111038,2020-12-10,1,"Poor performance, had to return it."
+551,248,US-2021-111514,2020-09-07,2,Product arrived damaged.
+569,510,US-2021-111612,2020-12-07,2,Did not meet my expectations.
+484,816,US-2021-111780,2021-01-04,2,"Regret this purchase, had to return it."
+618,241,US-2021-112144,2020-07-07,2,"Poor performance, had to return it."
+367,233,US-2021-113404,2020-07-20,1,Disappointed with the product quality.
+670,216,US-2021-114069,2020-07-21,2,"Regret this purchase, had to return it."
+118,216,US-2021-114069,2020-07-18,1,Disappointed with the product quality.
+356,146,US-2021-121405,2020-04-08,1,"Not worth the price, very disappointed."
+103,591,US-2021-124107,2020-10-15,1,Did not meet my expectations.
+862,22,US-2021-125696,2020-10-13,2,Disappointed with the product quality.
+916,866,US-2021-127824,2020-10-29,3,Product stopped working after a few days.
+997,79,US-2021-129007,2020-09-23,3,"Faulty product, waste of money."
+76,743,US-2021-129553,2020-08-05,1,Product stopped working after a few days.
+78,670,US-2021-130022,2020-08-19,1,Unsatisfactory experience overall.
+532,840,US-2021-130113,2021-01-05,2,Disappointed with the product quality.
+146,97,US-2021-130736,2020-12-12,1,Product arrived damaged.
+454,272,US-2021-130785,2020-09-14,2,Not as described in the listing.
+923,167,US-2021-131758,2020-06-08,3,Product stopped working after a few days.
+497,610,US-2021-131842,2020-12-13,2,"Faulty product, waste of money."
+63,348,US-2021-132486,2020-10-29,1,Product arrived damaged.
+617,589,US-2021-133585,2020-03-09,2,Did not meet my expectations.
+477,756,US-2021-134992,2020-10-01,2,"Regret this purchase, had to return it."
+489,768,US-2021-135685,2020-11-23,2,"Poor performance, had to return it."
+806,245,US-2021-136987,2020-04-21,2,"Faulty product, waste of money."
+166,245,US-2021-136987,2020-04-17,1,"Poor performance, had to return it."
+464,10,US-2021-138674,2020-11-22,2,Unsatisfactory experience overall.
+242,246,US-2021-140375,2020-10-09,1,Did not meet my expectations.
+77,643,US-2021-141040,2020-10-16,1,"Regret this purchase, had to return it."
+815,413,US-2021-143105,2020-12-17,2,Not as described in the listing.
+901,709,US-2021-143147,2020-06-04,3,Did not meet my expectations.
+881,561,US-2021-143616,2020-10-06,3,Product stopped working after a few days.
+108,702,US-2021-145121,2020-10-09,1,Product arrived damaged.
+96,729,US-2021-146486,2020-11-17,1,Product arrived damaged.
+620,196,US-2021-148250,2020-12-23,2,Product stopped working after a few days.
+646,19,US-2021-148712,2020-04-29,2,Product arrived damaged.
+883,750,US-2021-150630,2020-09-28,3,Product stopped working after a few days.
+502,750,US-2021-150630,2020-09-26,2,Did not meet my expectations.
+88,750,US-2021-150630,2020-09-24,1,Did not meet my expectations.
+181,176,US-2021-153794,2020-09-19,1,"Poor performance, had to return it."
+210,290,US-2021-155600,2020-12-10,1,Did not meet my expectations.
+959,244,US-2021-156328,2020-12-12,3,"Poor performance, had to return it."
+989,839,US-2021-156510,2020-10-07,3,"Poor performance, had to return it."
+817,457,US-2021-156608,2020-11-05,2,Unsatisfactory experience overall.
+967,224,US-2021-158918,2021-01-01,3,"Regret this purchase, had to return it."
+939,280,US-2021-163685,2020-06-12,3,Not as described in the listing.
+342,318,US-2021-164539,2020-11-26,1,Product arrived damaged.
+739,440,US-2021-168564,2020-08-14,2,"Poor performance, had to return it."
+277,238,US-2021-168732,2020-12-20,1,"Not worth the price, very disappointed."
+387,697,US-2021-168809,2020-08-29,1,"Regret this purchase, had to return it."
+787,82,US-2021-169677,2020-01-21,2,Unsatisfactory experience overall.
+520,706,US-2022-100461,2021-01-17,2,"Not worth the price, very disappointed."
+837,580,US-2022-100993,2021-02-17,2,"Faulty product, waste of money."
+752,429,US-2022-101987,2021-07-06,2,"Poor performance, had to return it."
+634,860,US-2022-105459,2021-08-23,2,Not as described in the listing.
+991,471,US-2022-105662,2021-05-17,3,"Regret this purchase, had to return it."
+863,108,US-2022-107615,2021-04-01,2,Product arrived damaged.
+298,337,US-2022-108196,2021-12-06,1,Product stopped working after a few days.
+237,6,US-2022-109365,2021-11-12,1,"Regret this purchase, had to return it."
+319,220,US-2022-111682,2021-06-22,1,Product stopped working after a few days.
+946,420,US-2022-113845,2021-12-02,3,"Not worth the price, very disappointed."
+650,490,US-2022-114013,2021-03-21,2,Product stopped working after a few days.
+914,382,US-2022-114174,2021-09-21,3,Unsatisfactory experience overall.
+397,593,US-2022-114307,2021-07-30,1,Unsatisfactory experience overall.
+202,676,US-2022-117408,2021-09-09,1,Unsatisfactory experience overall.
